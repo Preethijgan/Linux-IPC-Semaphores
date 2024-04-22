@@ -117,15 +117,15 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
-```
+
 $ gcc -o semaphore.o semaphore.c
 $ ./semaphore.o
 ![alt text](<Screenshot 2024-04-22 104254.png>)
-```
-```
+
+
 $ ipcs
 ![alt text](<Screenshot 2024-04-22 104328.png>)
-```
+
 
 
 
